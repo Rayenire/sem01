@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\sem01.csproj": {}
+    "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\task01\\sem01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\sem01.csproj": {
+    "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\task01\\sem01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\sem01.csproj",
+        "projectUniqueName": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\task01\\sem01.csproj",
         "projectName": "sem01",
-        "projectPath": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\sem01.csproj",
+        "projectPath": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\task01\\sem01.csproj",
         "packagesPath": "C:\\Users\\Алёна\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\obj\\",
+        "outputPath": "C:\\Users\\Алёна\\Desktop\\Учёба\\семинары C#\\sem01\\task01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Алёна\\AppData\\Roaming\\NuGet\\NuGet.Config"
