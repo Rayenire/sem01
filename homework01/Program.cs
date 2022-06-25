@@ -3,10 +3,14 @@ int numberB = Convert.ToInt32(Console.ReadLine());
 
 if(numberA > numberB){
     Console.Write("max = ");
-    Console.Write(numberA);
+    Console.WriteLine(numberA);
+    Console.Write("min = ");
+    Console.Write(numberB);
 }
 else
 {
     Console.Write("max = ");
-    Console.Write(numberB);
+    Console.WriteLine(numberB);
+    Console.Write("min = ");
+    Console.Write(numberA);
 }
